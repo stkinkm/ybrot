@@ -1,1 +1,5 @@
-keyword 1 :::: exact video title tukang program
+keyword 1 :::: exact video title tukang touring
+keyword 2 :::: exact video title Touring IMKF
+keyword 3 :::: exact video title IMKF
+keyword 4 :::: exact video title Ikatan Motor Kimia Farma
+keyword 4 :::: exact video title Bandung - Pangandaran
